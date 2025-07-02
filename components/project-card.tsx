@@ -11,11 +11,10 @@ interface ProjectCardProps {
   title: string
   category: string
   image: string
-  slug: string
   liveUrl?: string
 }
 
-export function ProjectCard({ title, category, image, slug, liveUrl }: ProjectCardProps) {
+export function ProjectCard({ title, category, image, liveUrl }: ProjectCardProps) {
   const [isIframeLoading, setIsIframeLoading] = useState(true)
   const [iframeError, setIframeError] = useState(false)
 
