@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "title": "Oyindamola Heritage Ajala | Full Stack Developer",
+    "description": "Full Stack Developer with a deep passion for backend development, specializing in creating scalable and efficient solutions."
+  },
+  "personal": {
+    "name": "Oyindamola Heritage Ajala",
+    "title": "Full Stack Developer",
+    "location": "Ogbomoso, Oyo State, Nigeria",
+    "avatar": "/oyindamola-avatar.jpg",
+    "email": "ajalaoyinda@gmail.com",
+    "phone": "+2348086321931",
+    "workingHours": "Monday - Friday, 9am - 6pm WAT",
+    "availableForWork": true,
+    "badges": ["Full Stack", "Backend Expert", "Chess Lover"],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/oyindamola",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/oyindamola-ajala",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/oyindamola_dev",
+        "icon": "Twitter"
+      }
+    ]
+  },
+  "about": {
+    "bio": "Full Stack Developer with a strong passion for backend development. Proficient in modern frontend frameworks and backend technologies, with expertise in building scalable server-side solutions. Currently pursuing BSc in Computer Science at FUOYE. A critical thinker and chess enthusiast who loves solving complex problems through code.",
+    "focus": [
+      "Building scalable backend systems and APIs",
+      "Creating efficient full-stack web applications",
+      "Implementing secure and performant server-side solutions",
+      "Leading development teams and mentoring junior developers"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native",
+        "level": 92,
+        "flag": "🇬🇧"
+      },
+      {
+        "name": "Yoruba",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇳🇬"
+      }
+    ],
+    "interests": ["Backend Architecture", "Chess", "Problem Solving", "Open Source", "System Design", "API Development"]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "NestJS Backend Developer",
+      "company": "Bellfast",
+      "period": "2025 - Present",
+      "description": "Leading backend development initiatives using NestJS, focusing on API optimization and system architecture. Implementing scalable solutions that improved system performance and reliability.",
+      "achievements": [
+        "Optimized API performance resulting in 40% faster response times",
+        "Implemented microservices architecture improving system scalability",
+        "Led code review processes ensuring high-quality standards across the team"
+      ],
+      "technologies": ["NestJS", "Node.js", "TypeScript", "PostgreSQL", "Redis", "Docker"]
+    },
+    {
+      "title": "Assistant Head of Engineering",
+      "company": "Poolot",
+      "period": "2021 - 2025",
+      "description": "Managed a team of developers, oversaw project planning and architecture decisions. Successfully delivered 3 major projects ahead of schedule while maintaining code quality standards.",
+      "achievements": [
+        "Led a team of 8 developers across multiple projects",
+        "Delivered 3 major projects ahead of schedule with 99.9% uptime",
+        "Established development workflows that increased team productivity by 35%",
+        "Mentored junior developers"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "AWS", "Docker", "Git", "Agile"]
+    },
+    {
+      "title": "Freelance Full Stack Developer",
+      "company": "Self-Employed",
+      "period": "2020 - Present",
+      "description": "Building custom web solutions for clients globally. Specializing in full-stack development with React, Node.js, and modern web technologies. Delivered over 20 successful projects.",
+      "achievements": [
+        "Completed 20+ projects with 99.99% client satisfaction rate",
+        "Built scalable applications serving a lot of users",
+        "Reduced client operational costs by an average of 30% through efficient solutions"
+      ],
+      "technologies": ["React", "Next.js", "Node.js", "NestJS", "MongoDB", "PostgreSQL", "AWS"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Software Engineering Diploma",
+        "issuer": "SQI College of ICT",
+        "date": "2020"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BSc Computer Science (In Progress)",
+        "institution": "Federal University Oye-Ekiti (FUOYE)",
+        "year": "2021 - Present"
+      },
+      {
+        "degree": "Software Engineering Diploma",
+        "institution": "SQI College of ICT",
+        "year": "2021-2022"
+      },
+      {
+        "degree": "Secondary Education",
+        "institution": "George Green Baptist College",
+        "year": "2015-2021"
+      }
+    ],
+    "skills": [
+      "Backend Development",
+      "Full Stack Development",
+      "API Design",
+      "Database Design",
+      "Critical Thinking",
+      "Team Leadership",
+      "Code Review",
+      "Problem Solving"
+    ]
+  },
+  "technicalSkills": {
+    "backend": ["Node.js", "NestJS", ".NET", "Django", "Express.js", "REST API", "GraphQL", "Microservices"],
+    "frontend": ["React", "Next.js", "HTML/CSS", "JavaScript", "TypeScript", "Tailwind CSS", "Bootstrap"],
+    "database": ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"],
+    "tools": ["Git", "Docker", "AWS", "Vercel", "Postman", "VS Code", "Linux", "Nginx"]
+  }
+}
