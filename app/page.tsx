@@ -151,7 +151,6 @@ export default function Home() {
                           title={project.title}
                           category={project.category}
                           image={project.thumbnailImage}
-                          slug={project.slug}
                           liveUrl={project.liveUrl}
                         />
                       </AnimatedSection>
